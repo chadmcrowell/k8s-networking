@@ -54,7 +54,8 @@ A list of resources that will help you understand network communications in a Ku
 - [Using CoreDNS for Service Discovery](https://kubernetes.io/docs/tasks/administer-cluster/coredns/)
 
 ### POD COMMUNICATION
-- [https://medium.com/@palashgoel/container-to-container-communications-in-kubernetes-35fc08798925](https://medium.com/@palashgoel/container-to-container-communications-in-kubernetes-35fc08798925)
+- [IPTABLES - K8s Networking Guide](https://www.tkng.io/services/clusterip/dataplane/iptables/)
+- [The Life of a Packet - KubeCon Video](https://youtu.be/0Omvgd7Hg1I?si=TC6eURFgo_pCXsED)
 - [Journey of the web request from a laptop to containerized application](https://medium.com/@olexandr.pochapskiy/journey-of-the-web-request-from-a-laptop-to-containerized-application-9f6ea4211bb9)
 - [Linux Network Namespace and five of its use cases](https://ramesh-sahoo.medium.com/linux-network-namespace-and-five-use-cases-using-various-methods-f45b1ec5db8f)
 - [Rook Ceph for networking](https://koor.tech/blog/2023/multus-is-the-way-to-go-for-rook-ceph-networking/)
