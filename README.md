@@ -40,6 +40,7 @@ A list of resources that will help you understand network communications in a Ku
 - [Network Policies Explained - DevOps Toolkit Video](https://youtu.be/18FEA5xXBGY?si=pYvlPYeEc3K9b-h-)
 
 ### CONTAINER NETWORKING INTERFACE (CNI)
+- [CNI Project GitHub Page](https://github.com/containernetworking/cni)
 - [Intro to CNI](https://addozhang.medium.com/introduction-to-container-network-interface-cni-25309a64b23e)
 - [CNI Explained - The K8s Networking Guide](https://www.tkng.io/cni/)
 - [Calico Networking for Kubernetes](https://docs.tigera.io/calico/latest/getting-started/kubernetes/)
