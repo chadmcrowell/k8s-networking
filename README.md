@@ -5,6 +5,7 @@ A list of resources that will help you understand network communications in a Ku
 - [Kubernetes & Networking](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)
 
 ### COMPLETE GUIDES
+- [Understanding Kubernetes Networking Guide](https://medium.com/@betz.mark/understanding-kubernetes-networking-pods-7117dd28727)
 - [The Kubernetes Networking Model](https://kubernetes.io/docs/concepts/services-networking/)
 - [The Kubernetes Networking Guide](https://www.tkng.io/)
 - [Kubernetes Networking Demystified](https://www.stackrox.io/blog/kubernetes-networking-demystified/)
